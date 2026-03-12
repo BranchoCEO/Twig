@@ -1,0 +1,8 @@
+[package]
+name        = "twig_engine"
+version     = "1.0.0"
+edition     = "2021"
+description = "Ultra-lightweight Twig SLM — zero dependencies"
+
+# Pure std: no external crates needed
+[dependencies]
